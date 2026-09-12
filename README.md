@@ -21,6 +21,10 @@ Hard infrastructure and network fabric for local agentic lab operations.
 
 Axios Core: Windows 10 — Linux migration pending. Cloudflare tunnel required before external service exposure.
 
+## Research
+
+- [`research/methodology/`](research/methodology/) — proposals, independent audit, and the current pilot-ready deep-research methodology candidate
+
 ## Roadmap
 
 | Gate | Dependency | Unlocks |
@@ -28,3 +32,4 @@ Axios Core: Windows 10 — Linux migration pending. Cloudflare tunnel required b
 | Linux migration | Hardware / scheduling | Containerization, stable runtime |
 | Cloudflare tunnel | Linux migration or Windows config | External service exposure |
 | Agentic workloads | Tunnel + runtime stable | Heavy inference, background agents |
+
