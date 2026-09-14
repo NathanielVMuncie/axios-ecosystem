@@ -6,6 +6,8 @@ This directory preserves the evidence chain used to select and validate the rese
 
 The active methodology is **Candidate v0.9**. It is coherent enough for a bounded pilot but is not finalized, approved, or generally validated. Promotion to v1.0 requires the controlled pilot defined inside the candidate.
 
+Latest execution: [WCAG22-01 smoke test](pilots/2026-09-14-wcag22-smoke-test.md). Five claims verified; one seeded false claim rejected. This is not the Section 16 matched-baseline pilot. Candidate v0.9 remains unpromoted. The conversational v1.1 draft has not superseded this repository candidate.
+
 ## Artifact map
 
 | Path | Role | Authority |
