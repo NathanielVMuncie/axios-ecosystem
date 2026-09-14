@@ -2,7 +2,7 @@
 
 Hard infrastructure and network fabric for local agentic lab operations.
 
-**Notion Project Page:** https://app.notion.com/p/3b73a36cfb2b81df80c8e33276403ab3
+**Notion Project Page:** https://app.notion.com/p/38a3a36cfb2b81028da4d8e5a35b1b5a
 
 ## Nodes
 
@@ -22,6 +22,8 @@ Hard infrastructure and network fabric for local agentic lab operations.
 Axios Core: Windows 10 — Linux migration pending. Cloudflare tunnel required before external service exposure.
 
 ## Research
+
+Methodology selection remains **In Progress**. The [2026-09-14 smoke test](research/methodology/pilots/2026-09-14-wcag22-smoke-test.md) passed functional checks but did not satisfy the candidate's promotion gate. Methodology approval precedes Linux selection; infrastructure statements below were not re-audited in this methodology-only update.
 
 - [`research/methodology/`](research/methodology/) — proposals, independent audit, and the current pilot-ready deep-research methodology candidate
 
